@@ -14,7 +14,7 @@
     "atom": "*"
   },
   "dependencies": {
-    "atom-select-list": "^0.7.1",
+    "pulsar-select-list": "^1.0.0",
     "underscore-plus": "^1.0.0"
   }
 }
