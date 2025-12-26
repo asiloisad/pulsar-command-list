@@ -1,1 +1,13 @@
-# command-palette-plus
+# command-list
+
+## Installation
+
+To install run `ppm install asiloisad/pulsar-command-list` to install a package directly from the GitHub repository.
+
+# Contributing
+
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
+
+# Credits
+
+Fork of [command-palette](https://github.com/pulsar-edit/pulsar/tree/master/packages/command-palette) package.

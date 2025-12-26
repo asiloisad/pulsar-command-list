@@ -1,20 +1,19 @@
 {
-  "name": "command-palette-plus",
+  "name": "command-list",
   "version": "0.43.5",
-  "main": "./lib/command-palette-package",
+  "main": "./lib/main",
   "description": "Find and run available commands",
   "activationCommands": {
     "atom-workspace": [
       "command-palette:toggle"
     ]
   },
-  "repository": "https://github.com/asiloisad/pulsar-command-palette-plus",
+  "repository": "https://github.com/asiloisad/pulsar-command-list",
   "license": "MIT",
   "engines": {
     "atom": "*"
   },
   "dependencies": {
-    "pulsar-select-list": "^1.0.0",
-    "underscore-plus": "^1.0.0"
+    "pulsar-select-list": "^1.0.0"
   }
 }
