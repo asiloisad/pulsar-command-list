@@ -1,2 +1,2 @@
 'atom-workspace':
-  'f1': 'command-palette:toggle'
+  'f1': 'command-list:toggle'

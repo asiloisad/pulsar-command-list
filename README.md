@@ -1,18 +1,25 @@
 # command-list
 
-Find and run available commands.
+Find and run available commands with fuzzy search.
 
-- Fuzzy search across command names, descriptions, and tags
-- Shows keyboard shortcuts for each command
+Fork of [command-palette](https://github.com/pulsar-edit/pulsar/tree/master/packages/command-palette).
+
+## Features
+
+- **Fuzzy search**: Search across command names, descriptions, and tags.
+- **Keyboard shortcuts**: Shows keybindings for each command.
 
 ## Installation
 
-To install run `ppm install asiloisad/pulsar-command-list` to install a package directly from the GitHub repository.
+To install `command-list` run `ppm install asiloisad/pulsar-command-list` to install a package directly from the GitHub repository.
 
-# Contributing
+## Commands
 
-Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
+Commands available in `atom-workspace`:
 
-# Credits
+- `command-list:toggle`: (`F1`) toggle command palette,
+- `command-list:show-hidden-commands`: show palette including hidden commands.
 
-Fork of [command-palette](https://github.com/pulsar-edit/pulsar/tree/master/packages/command-palette) package.
+## Contributing
+
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback's welcome!

@@ -10,8 +10,8 @@
   "main": "./lib/main",
   "activationCommands": {
     "atom-workspace": [
-      "command-palette:toggle",
-      "command-palette:show-hidden-commands"
+      "command-list:toggle",
+      "command-list:show-hidden-commands"
     ]
   },
   "dependencies": {
