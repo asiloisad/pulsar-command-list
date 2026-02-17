@@ -2,7 +2,7 @@
   "name": "command-list",
   "description": "Find and run available commands with fuzzy search",
   "repository": "https://github.com/asiloisad/pulsar-command-list",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
