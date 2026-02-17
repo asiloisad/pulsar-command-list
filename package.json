@@ -19,7 +19,7 @@
       "title": "Number of Recent Items",
       "description": "How many recently used commands to keep at the top of the list.",
       "type": "integer",
-      "default": 5,
+      "default": 10,
       "minimum": 0
     }
   },
