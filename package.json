@@ -16,11 +16,19 @@
   },
   "configSchema": {
     "recentCount": {
+      "order": 1,
       "title": "Number of Recent Items",
       "description": "How many recently used commands to keep at the top of the list.",
       "type": "integer",
       "default": 10,
       "minimum": 0
+    },
+    "preserveQuery": {
+      "order": 2,
+      "title": "Preserve Query",
+      "description": "Keep the search query when reopening the command list.",
+      "type": "boolean",
+      "default": false
     }
   },
   "dependencies": {
