@@ -16,6 +16,8 @@ Fork of [command-palette](https://github.com/pulsar-edit/pulsar/tree/master/pack
 
 To install `command-list` search for [command-list](https://web.pulsar-edit.dev/packages/command-list) in the Install pane of the Pulsar settings or run `ppm install command-list`. Alternatively, you can run `ppm install asiloisad/pulsar-command-list` to install a package directly from the GitHub repository.
 
+> **Note:** This package automatically disables the built-in `command-palette` package to avoid conflicts.
+
 ## Commands
 
 Commands available in `atom-workspace`:
