@@ -22,7 +22,7 @@ To install `command-list` search for [command-list](https://web.pulsar-edit.dev/
 
 Commands available in `atom-workspace`:
 
-- `command-list:toggle`: <kbd>F1</kbd> toggle command palette,
+- `command-list:toggle`: toggle command palette,
 - `command-list:show-hidden-commands`: show palette including hidden commands.
 
 ## Contributing
