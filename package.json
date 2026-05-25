@@ -11,7 +11,8 @@
   "activationCommands": {
     "atom-workspace": [
       "command-list:toggle",
-      "command-list:show-hidden-commands"
+      "command-list:show-hidden-commands",
+      "command-list:clear-recent"
     ]
   },
   "configSchema": {
